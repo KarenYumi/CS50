@@ -1,1 +1,1 @@
-**Some Porjects from CS50**
+*Some Projects from CS50*
